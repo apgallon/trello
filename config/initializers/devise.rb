@@ -184,6 +184,7 @@ Devise.setup do |config|
   # ==> Configuration for :recoverable
   #
   # Defines which key will be used when recovering the password for an account
+  #NewComment added to check fortify functionality
   # config.reset_password_keys = [ :email ]
 
   # Time interval you can reset your password with a reset password key.
